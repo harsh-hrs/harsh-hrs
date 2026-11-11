@@ -11,6 +11,7 @@ Right now I'm working on **[ValveHub](https://valve-knowledge-hub.pages.dev)**, 
 - ⚙️ &nbsp;**Engineering, made visual:** valves, pumps and fluid flow you can spin, slice and explore
 - 🎞️ &nbsp;**Motion & UI:** Framer Motion, Tailwind CSS and clean design systems
 - 🌱 &nbsp;**Exploring:** custom shaders and real-time flow simulation
+- 💼 &nbsp;**Open to work:** roles and freelance projects in creative frontend and 3D for the web
 
 ### 🧰 Tech stack
 
